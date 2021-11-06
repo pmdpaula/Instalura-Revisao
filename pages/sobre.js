@@ -9,5 +9,5 @@ const TitleWrapper = styled.h1`
 const Title = ({children}) => <TitleWrapper>{children}</TitleWrapper>
 
 export default function Home() {
-  return <Title>Minha páddgina</Title>
+  return <Title>Sobre</Title>
 }
